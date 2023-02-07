@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.vis{
+    background-color: rgba(36, 173, 89, 0.521);
+}
+
+
+
+
+.sandy{
+    padding-left: 50px;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 25px;
+}
+.TH{
+    text-align: center;
+    font-size: 50px;
+    border: 40px solid rgb(12, 0, 0);
+}
+.drop{
+    font-size: 50px;
+    text-align: center;
+    border: 25px solid rgb(0, 0, 0);
+}
+.gun{
+    background-color: rgb(255, 2, 2);
+    font-size: 50px;
+}
